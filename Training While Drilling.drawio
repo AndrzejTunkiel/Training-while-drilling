@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-05-19T11:22:40.239Z" agent="5.0 (Windows)" etag="z_DzBuozgTLQScBh0Vpk" version="13.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-04T12:41:14.631Z" agent="5.0 (Windows)" etag="FCGf4Qo86SVcd1qQyhtd" version="13.1.14" type="github">
   <diagram id="bSRufLqVA1Szm_SpAHjt" name="Page-1">
-    <mxGraphModel dx="1422" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="813" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="IG6GarAEUEpLXlJMv6_5-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="280" width="440" height="330" as="geometry" />
+        </mxCell>
         <mxCell id="t0zLgR5mg5bqfj8AAHoA-35" value="" style="endArrow=classic;html=1;entryX=0.171;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="509.92" y="370" as="sourcePoint" />
@@ -188,7 +191,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t0zLgR5mg5bqfj8AAHoA-39" value="&lt;div&gt;(n%, n%+20) of data&lt;/div&gt;&lt;div&gt;Testing dataset&lt;br&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="630" y="241" width="150" height="39" as="geometry" />
+          <mxGeometry x="630" y="236.5" width="150" height="39" as="geometry" />
         </mxCell>
         <mxCell id="t0zLgR5mg5bqfj8AAHoA-40" value="" style="endArrow=classic;html=1;entryX=0.171;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -203,8 +206,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="470" y="486" />
-              <mxPoint x="547" y="486" />
-              <mxPoint x="547" y="465" />
+              <mxPoint x="560" y="486" />
+              <mxPoint x="560" y="465" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -267,13 +270,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="t0zLgR5mg5bqfj8AAHoA-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="t0zLgR5mg5bqfj8AAHoA-69" target="t0zLgR5mg5bqfj8AAHoA-39" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="220" />
+              <mxPoint x="705" y="220" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="t0zLgR5mg5bqfj8AAHoA-69" value="n=15" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="495" y="180" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="t0zLgR5mg5bqfj8AAHoA-73" value="&lt;div&gt;repeat loop for (n+1)%&lt;/div&gt;&lt;div&gt;untill n=80&lt;br&gt;&lt;/div&gt;" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="t0zLgR5mg5bqfj8AAHoA-67" target="t0zLgR5mg5bqfj8AAHoA-69" edge="1">
-          <mxGeometry x="-0.72" y="-20" width="50" height="50" relative="1" as="geometry">
+        <mxCell id="t0zLgR5mg5bqfj8AAHoA-73" value="&lt;div&gt;repeat loop for (n+1)%&lt;/div&gt;" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="t0zLgR5mg5bqfj8AAHoA-67" target="t0zLgR5mg5bqfj8AAHoA-69" edge="1">
+          <mxGeometry x="-0.7289" y="-15" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470" y="720" as="sourcePoint" />
             <mxPoint x="530" y="240" as="targetPoint" />
             <Array as="points">
@@ -281,6 +289,21 @@
               <mxPoint x="240" y="190" />
             </Array>
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IG6GarAEUEpLXlJMv6_5-2" value="Newly aquired data expands the training dataset of the next iteration" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="670" width="195" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="IG6GarAEUEpLXlJMv6_5-3" value="Elements specific to case study" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="620" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IG6GarAEUEpLXlJMv6_5-4" value="" style="endArrow=none;dashed=1;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IG6GarAEUEpLXlJMv6_5-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="650" as="sourcePoint" />
+            <mxPoint x="710" y="650" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="650" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
