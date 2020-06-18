@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-18T09:17:05.093Z" agent="5.0 (Windows)" etag="canamNGoPVR84f-XTRI4" version="13.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-18T09:23:23.939Z" agent="5.0 (Windows)" etag="7VTnG95KFG6QZpBr7Ce3" version="13.2.6" type="github">
   <diagram id="ORLCsvEyvhCfM3BMje48" name="Page-1">
     <mxGraphModel dx="1185" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -106,7 +106,7 @@
         <mxCell id="BVdiJteZotGuhLGtTFXk-24" value="&lt;font style=&quot;font-size: 18px&quot;&gt;inclination data &lt;b&gt;not &lt;/b&gt;available&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;" vertex="1" parent="1">
           <mxGeometry x="459" y="337" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BVdiJteZotGuhLGtTFXk-26" value="&lt;font style=&quot;font-size: 18px&quot;&gt;real-time parameter data available&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;" vertex="1" parent="1">
+        <mxCell id="BVdiJteZotGuhLGtTFXk-26" value="&lt;font style=&quot;font-size: 18px&quot;&gt;real-time attributes available&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;" vertex="1" parent="1">
           <mxGeometry x="210" y="384" width="310" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BVdiJteZotGuhLGtTFXk-37" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;t&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;rotation=0;" vertex="1" parent="1">
